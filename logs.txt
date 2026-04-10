@@ -1,0 +1,59 @@
+2026-04-10 16:40:21,929 - INFO - App started
+2026-04-10 16:48:40,407 - INFO - App started
+2026-04-10 16:50:21,044 - INFO - App started
+2026-04-10 16:51:00,602 - INFO - App started
+2026-04-10 17:02:35,320 - INFO - App started
+2026-04-10 17:02:55,483 - INFO - App started
+2026-04-10 17:02:55,788 - INFO - File uploaded with columns: ['duration', 'src_bytes', 'dst_bytes', 'failed_logins', 'num_access_files', 'is_guest_login', 'count', 'srv_count', 'label']
+2026-04-10 17:02:55,831 - WARNING - Missing features auto-filled: ['Total Fwd Packets', 'Total Backward Packets']
+2026-04-10 17:02:57,528 - INFO - Prediction completed successfully
+2026-04-10 17:03:28,549 - INFO - App started
+2026-04-10 17:06:28,218 - INFO - App started
+2026-04-10 17:06:59,758 - INFO - App started
+2026-04-10 17:07:14,412 - INFO - App started
+2026-04-10 17:07:27,465 - INFO - App started
+2026-04-10 17:07:27,826 - INFO - File uploaded with columns: ['duration', 'src_bytes', 'dst_bytes', 'failed_logins', 'num_access_files', 'is_guest_login', 'count', 'srv_count', 'label']
+2026-04-10 17:07:27,844 - WARNING - Missing features auto-filled: ['Total Fwd Packets', 'Total Backward Packets']
+2026-04-10 17:07:29,899 - INFO - Prediction completed successfully
+2026-04-10 17:08:09,090 - INFO - App started
+2026-04-10 17:11:19,219 - INFO - App started
+2026-04-10 17:13:58,619 - INFO - App started
+2026-04-10 17:15:17,664 - INFO - App started
+2026-04-10 17:15:34,510 - INFO - App started
+2026-04-10 17:15:50,959 - INFO - App started
+2026-04-10 17:15:51,248 - INFO - App started
+2026-04-10 17:16:14,182 - INFO - App started
+2026-04-10 17:16:28,357 - INFO - App started
+2026-04-10 17:16:35,455 - INFO - App started
+2026-04-10 17:16:36,886 - INFO - App started
+2026-04-10 17:16:41,352 - INFO - App started
+2026-04-10 17:16:59,996 - INFO - App started
+2026-04-10 17:17:00,266 - INFO - File uploaded with columns: ['StudentID', 'Name', 'Marks', 'City']
+2026-04-10 17:17:00,299 - WARNING - Missing features auto-filled: ['Flow Duration', 'Total Fwd Packets', 'Total Backward Packets', 'Total Length of Fwd Packets', 'Total Length of Bwd Packets']
+2026-04-10 17:17:02,580 - INFO - Prediction completed successfully
+2026-04-10 17:17:08,257 - INFO - App started
+2026-04-10 17:17:08,842 - INFO - File uploaded with columns: ['StudentID', 'Name', 'Marks', 'City']
+2026-04-10 17:17:08,872 - WARNING - Missing features auto-filled: ['Flow Duration', 'Total Fwd Packets', 'Total Backward Packets', 'Total Length of Fwd Packets', 'Total Length of Bwd Packets']
+2026-04-10 17:17:09,730 - INFO - Prediction completed successfully
+2026-04-10 17:23:40,487 - INFO - App started
+2026-04-10 17:24:44,215 - INFO - App started
+2026-04-10 17:26:21,838 - INFO - App started
+2026-04-10 17:27:15,314 - INFO - App started
+2026-04-10 17:28:07,563 - INFO - App started
+2026-04-10 17:28:48,143 - INFO - App started
+2026-04-10 17:28:49,388 - ERROR - Analysis error: 'utf-8' codec can't decode byte 0xcf in position 1: invalid continuation byte
+2026-04-10 17:28:53,515 - INFO - App started
+2026-04-10 17:29:04,704 - INFO - App started
+2026-04-10 17:29:06,039 - INFO - File uploaded with columns: ['Flow Duration', 'Total Fwd Packets', 'Total Backward Packets', 'Total Length of Fwd Packets', 'Total Length of Bwd Packets']
+2026-04-10 17:31:18,853 - INFO - App started
+2026-04-10 17:31:49,707 - INFO - App started
+2026-04-10 17:31:50,998 - INFO - File uploaded with columns: ['StudentID', 'Name', 'Marks', 'City']
+2026-04-10 17:31:51,004 - ERROR - Analysis error: name 'map_columns' is not defined
+2026-04-10 17:32:03,767 - INFO - App started
+2026-04-10 17:32:05,016 - INFO - File uploaded with columns: ['duration', 'src_bytes', 'dst_bytes', 'failed_logins', 'num_access_files', 'is_guest_login', 'count', 'srv_count', 'label']
+2026-04-10 17:32:05,019 - ERROR - Analysis error: name 'map_columns' is not defined
+2026-04-10 17:33:48,316 - INFO - App started
+2026-04-10 17:34:22,431 - INFO - App started
+2026-04-10 17:34:23,698 - INFO - File uploaded with columns: ['duration', 'src_bytes', 'dst_bytes', 'failed_logins', 'num_access_files', 'is_guest_login', 'count', 'srv_count', 'label']
+2026-04-10 17:34:23,752 - WARNING - Missing features auto-filled: ['Total Fwd Packets', 'Total Backward Packets']
+2026-04-10 17:34:25,963 - INFO - Analysis completed successfully
